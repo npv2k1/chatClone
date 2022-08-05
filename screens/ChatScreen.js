@@ -184,7 +184,7 @@ export default ChatScreen;
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+   hi
   },
   reciever: {
     padding: 15,
